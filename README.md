@@ -217,7 +217,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- **Original Research**: Based on work by Syed Sadi
 - **OpenCV Community**: Computer vision library
 - **Open Source Contributors**: Haar cascade models and algorithms
 
@@ -238,5 +237,3 @@ For support and questions:
 - **Multi-camera Support**: Multiple driver monitoring
 
 ---
-
-**⚠️ Disclaimer**: This system is designed for educational and research purposes. Always follow local safety regulations and use appropriate safety measures when operating vehicles or machinery.
