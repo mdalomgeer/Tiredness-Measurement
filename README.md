@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](tests/)
 [![Platform](https://img.shields.io/badge/Platform-Cross--platform-orange.svg)](README.md)
 
@@ -210,10 +209,6 @@ We welcome contributions! Please see our contributing guidelines:
 3. Make your changes
 4. Add tests for new functionality
 5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
